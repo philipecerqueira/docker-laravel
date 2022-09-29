@@ -1,4 +1,4 @@
-# Docker-Php
+# Docker-laravel
 
 ## Como rodar o projeto (AUTO):
 
